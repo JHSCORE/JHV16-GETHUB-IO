@@ -3,8 +3,8 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="index.css"
-<title>Jesus Hernandez V.</title>
+  <link rel="stylesheet" href="index.css">
+<title>Welcome</title>
 </head>
 <body>
   <h1>PERSONAL WEBPAGE</h1>
