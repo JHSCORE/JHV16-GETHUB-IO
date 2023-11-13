@@ -12,4 +12,4 @@
   
   <ol>
     <li><a href="portfolio.html">My Portfolio!</a> </li>
-    <li><a href="about.html">An basic information about me"</a></li>
+    <li><a href="about.html">And basic information about me"</a></li>
