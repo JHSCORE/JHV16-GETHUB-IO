@@ -1,5 +1,7 @@
 body{
-  background: url(<img src="https://www.hdwallpapers.in/download/beach_google_pixelbook_stock-1600x900.jpg" alt="Beach Google Pixelbook Stock Wallpapers | HD Wallpapers | ID #26582"/>)
+  background: url(<img src="https://www.hdwallpapers.in/download/beach_google_pixelbook_stock-1600x900.jpg" alt="Beach Google Pixelbook Stock Wallpapers | HD Wallpapers | ID #26582"/>);
+  background-repeat:no-repeat;
+  background-size: 100%;
 }
 div{
   background:red ;
