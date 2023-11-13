@@ -2,3 +2,10 @@ img{
   width: 200px;
   height: 200px;
 }
+
+h1{
+  background-color: blue;
+}
+p{
+  background-color: #a4a4fe;
+}
