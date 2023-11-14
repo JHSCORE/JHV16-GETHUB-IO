@@ -1,12 +1,17 @@
 h1{
+  color:white;
   background-color:blue;
 }
 p{
+  text-size-adjust: 20px;
+  color:white;
   background-color: blue;
 }
 h3{
+  color:white;
   background-color: blue;
 }
 li{
+  text-size-adjust: 17px;
   background-color:cyan;
 }
